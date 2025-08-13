@@ -1,0 +1,11 @@
+[
+ {
+    "origin": [
+      "https://bhumiaveshana-9552e.web.app",
+      "https://bhumiaveshana-9552e.firebaseapp.com"
+    ],
+    "responseHeader": ["Content-Type", "Authorization"],
+    "method": ["GET", "HEAD", "PUT", "POST", "DELETE"],
+    "maxAgeSeconds": 3600
+  }
+]
